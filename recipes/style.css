@@ -1,0 +1,25 @@
+body{
+    background: skyblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+h1,h2{
+    text-decoration: underline;
+}
+
+img{
+    display: inline-block;
+    border: solid 3px black;
+}
+
+p{
+    font-size: 18px;
+}
+
+ul,ol,li{
+    padding: 1;
+    margin: 2;
+    font-size: 18px;
+}
+
